@@ -175,49 +175,7 @@
     ]
   },
 
-  {
-    "Id": "0c7a8a54-f7fc-4464-8f21-67c961b84f7c",
-    "Title": "Get started with Lists",
-    "Image": "images/playlists/lists_get_started.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
-    "SubjectId": "",
-    "Source": "SOC",
-    "CatId": "4b40845d-fe5f-428f-8970-58455e5bf262",
-    "Description": "Track information and organize work with Microsoft Lists. Create a list from scratch, from Excel, from an existing list, or from a template.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": "",
-    "Assets": [
-      "ee8076b6-4270-46c7-bd5d-f575b59d9474",
-      "5b16f46a-b2f7-4c47-b753-e1aeada713bd",
-      "bc79367d-29d0-412f-968a-ff880fd1c830",
-      "d265d970-039c-4a9e-9c48-f50f75ecd954",
-      "89f17abb-a39e-4fec-bfaa-de60bc2e554a",
-      "675d6755-5e48-4691-8e08-4ea419602187",
-      "20437c9e-d618-4a76-a957-9ad3e9fe6824",
-      "a76e1836-6d5b-415a-9221-974d145c01ef"
-    ]
-  },
-  {
-    "Id": "ed55052f-97a3-495c-937f-273c89775b69",
-    "Title": "Linked data types",
-    "Image": "images/playlists/excel_linked_data_types.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
-    "SubjectId": "",
-    "Source": "SOC",
-    "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "With linked data types, you can insert and work with reliable data from trusted online data sources. ",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": "",
-    "Assets": [
-      "7e57b140-159f-457a-8ee6-5276bbaf395a",
-      "cf0e75c4-04cd-4260-8648-3cd7bd5f8c56",
-      "ec09d1da-476c-4945-a595-9f9aa816dd53"
-    ]
-  },
+
   {
     "Id": "19a310b9-b50c-44ae-96e2-b30f17a38528",
     "Title": "Run effective meetings",
@@ -288,27 +246,7 @@
       "acfddc7a-1f95-4515-bc8d-06bc5cccd528"
     ]
   },
-  {
-    "Id": "a9047d0c-b690-4a43-9ad3-78ee5c1d5d7b",
-    "Title": "Walkie Talkie, Tasks, and Praise",
-    "Image": "images/playlists/teams_walkie.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
-    "SubjectId": "",
-    "Source": "SOC",
-    "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Learn how to use the Walkie Talkie Teams app to turn your work phone into a simple and secure instant voice communication device, how to use the Tasks app in Teams, and how to communicate and recognize your Firstline team with Praise.  ",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": "",
-    "Assets": [
-      "891f92f0-7014-4d6d-b888-9ccfe2d25fa5",
-      "362a1ec7-06ca-40df-bf68-a9edd830683e",
-      "125ebed0-45fb-4b5c-a6c4-fd84dffff334",
-      "1567a3c0-38de-4d02-81b3-73571a708b42",
-      "62e14a8f-ca13-4ad0-b551-e2dda01193a9"
-    ]
-  },
+
   {
     "Id": "6f3bbc71-627d-4427-9635-6aadd0a203f9",
     "Title": "Reach large audiences with live events",
@@ -330,23 +268,5 @@
       "5066fb5a-a8c1-48cb-b1aa-9b0e2b4a1e7e"
     ]
   },
-  {
-    "Id": "634948c6-8f39-4bc4-a0ee-f42dc12b511c",
-    "Title": "Create approvals",
-    "Image": "images/playlists/teams_approvals.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
-    "SubjectId": "",
-    "Source": "SOC",
-    "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
-    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
-    "StatusNote": "",
-    "Assets": [
-      "fc8da528-2cbd-4079-accd-8435ab70cabd",
-      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
-      "079cd574-3e04-4dc1-bcc1-6d0797970723"
-    ]
-  }
+
 ]
