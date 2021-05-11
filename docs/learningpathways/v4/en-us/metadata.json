@@ -142,7 +142,28 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Custom",
-      "SubCategories": []
+      "SubCategories": [
+      
+      {
+          "Id": "48f79d7c-03a8-4803-9d93-acb2271e6c97",
+          "Name": "TEST 1",
+          "Image": "images/categories/toolkit.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Custom",
+          "SubCategories": []
+        },
+        {
+          "Id": "97bc555e-6347-49fa-b9aa-4102f26fb306",
+          "Name": "TEST 2",
+          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Custom",
+          "SubCategories": []
+        }
+      
+      ]
     },
     
     {
