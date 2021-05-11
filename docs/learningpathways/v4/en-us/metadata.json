@@ -142,7 +142,18 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Custom",
-      "SubCategories":[]
+      "SubCategories":[
+      
+          {
+          "Id": "422f206b-160b-41f8-a7e6-df8c3473e26a",
+          "Name": "Test Sub Category Change 1",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Custom",
+          "SubCategories": []
+        },
+      ]
           
       
     },
