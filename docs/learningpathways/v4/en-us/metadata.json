@@ -133,27 +133,16 @@
       "Subjects": []
     }
   ],
-  "Categories": [
-    
-       {
-      "Id": "c50748c4-756f-4949-bf68-c94cb4659847",
+  "Categories": 
+  [
+    {
+      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Child Protection",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Custom",
-      "SubCategories":[
-      
-          {
-          "Id": "422f206b-160b-41f8-a7e6-df8c3473e26a",
-          "Name": "Test Sub Category Change 1",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Custom",
-          "SubCategories": []
-        },
-      ]
+      "Source": "Microsoft",
+      "SubCategories":[]
           
       
     },
@@ -184,7 +173,7 @@
           "SubCategories": []
         }
       ]
-    },  
+    },
     {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
       "Name": "Scenarios",
