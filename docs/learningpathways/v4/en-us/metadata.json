@@ -137,7 +137,7 @@
     
     {
       "Id": "06dbdd45-62ca-4645-9cc8-e453d73e428d",
-      "Name": "Families Programs",
+      "Name": "Families",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -146,7 +146,7 @@
       
       {
           "Id": "48f79d7c-03a8-4803-9d93-acb2271e6c97",
-          "Name": "Caring for Families",
+          "Name": "Families Programs",
           "Image": "images/categories/toolkit.png",
           "TechnologyId": "",
           "SubjectId": null,
