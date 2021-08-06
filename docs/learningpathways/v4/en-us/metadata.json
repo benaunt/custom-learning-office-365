@@ -142,18 +142,7 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Custom",
-      "SubCategories": [
-      
-      {
-          "Id": "48f79d7c-03a8-4803-9d93-acb2271e6c97",
-          "Name": "Caring for Families - Module 3",
-          "Image": "images/categories/toolkit.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Custom",
-          "SubCategories": []
-        }
-      ]
+      "SubCategories": []
     },
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
