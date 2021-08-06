@@ -134,16 +134,6 @@
     }
   ],
   "Categories": [
-    
-    {
-      "Id": "06dbdd45-62ca-4645-9cc8-e453d73e428d",
-      "Name": "Families Programs",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Custom",
-      "SubCategories": []
-    },
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Get started",
@@ -171,6 +161,15 @@
           "SubCategories": []
         }
       ]
+    },  
+    {
+      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Name": "Get started",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": []
     },
     {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
