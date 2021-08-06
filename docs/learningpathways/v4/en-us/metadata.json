@@ -152,15 +152,6 @@
           "SubjectId": null,
           "Source": "Custom",
           "SubCategories": []
-        },
-        {
-          "Id": "97bc555e-6347-49fa-b9aa-4102f26fb306",
-          "Name": "TEST 2",
-          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Custom",
-          "SubCategories": []
         }
       
       ]
